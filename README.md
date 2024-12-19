@@ -8,4 +8,11 @@ Well... actually, since I was the one who needed the favor, I let him adjust thi
 
 Everything was going well until months later, one day Simon told me that now he wanted to be paid. That it was no longer a favor. So... well... that's a different story. The thing is that it started to get ugly and the story ends with me stopping going to swimming and consequently the end of this little programming project in Borland Pascal 7.
 
+## Make it run
+The entire thing is in spanish, but I like to write the readme in english. Just because.
+
+To make it run on these days, you will need Dosbox and Borland Pascal 7 installed in it. Honestly I didn't test it yet, but it is very likely yo can open club.pas, hit CTRL+F9 and everything should be more or less working. 
+
+I need to check if there are any config file required. Probably just text files. Because on those days, we used to have monochromatic (Hercules) monitors and VGA monitors. At DOS level, both graphic cards writes in different memory regions: $B800 and $B000 (If I recall correctly). We are talking about vintage things here. It was fun! The club's computer had an Hercules monitor and Simon and me used to have a SVGA monitor.
+
 
